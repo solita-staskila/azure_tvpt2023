@@ -53,10 +53,6 @@ ntlm-auth==1.4.0
 oauthlib==3.2.0
 packaging==21.3
 platformdirs==3.2.0
-proxy-checker==0.6
-proxy-checking==0.0
-proxybroker @ file:///home/samuli/dev/python/proxybroker2
-py-proxy-checker==0.2.2
 pycares==4.3.0
 pycparser==2.21
 pycryptodomex==3.11.0
