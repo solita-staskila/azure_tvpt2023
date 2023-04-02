@@ -5,7 +5,7 @@
     <tr>
       <td>
         App deployed with Azure cloud service<br/>
-        Suomen Yyrittäjäopisto TVPT2023
+        Suomen Yrittäjäopisto TVPT2023
       </td>
     </tr>
   </table>
